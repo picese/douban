@@ -12,4 +12,4 @@
 |-|-|
 
 #### 项目预览
-![项目预览演示](https://github.com/picese/images/blob/master/imgs/1569417654136.gif)
+![项目预览演示](https://github.com/picese/images/blob/master/imgs/1569507142298.gif)
